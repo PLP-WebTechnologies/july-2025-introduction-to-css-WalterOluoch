@@ -1,0 +1,26 @@
+body{
+    font-family: sans-serif, Arial, Helvetica;
+    background-color: rgba(128, 140, 143, 0.906);
+    font-size:1rem;
+    line-height:1.6;
+    margin: 0;
+    padding: 0;
+}
+
+.firstsection{
+    text-align: center;
+    background-color:rgb(114, 110, 110) ;
+    padding: 3rem;
+}
+
+footer {
+    background-color: #22466c;
+    color: fff;
+    padding:7px;
+    text-align:center;
+}
+
+span{
+    font-size: larger;
+    font-family: Arial, sans-serif;
+}
